@@ -17,3 +17,6 @@
 .byebug_history
 #don't show secrets
 /config/secrets.yml
+
+
+.env
